@@ -24,8 +24,8 @@ const dave = {
   archetecture: [Microservices, SPA],
   currentProjects: {
     private: Developing Android and Server apps for Property Inventory,
-    private: Developing Server apps for Stock management,
-    public: [AWS Cloud Infrastructure]
+    private: Developing Server apps for Stock Management,
+    public: AWS Cloud Infrastructure
   },
   funFact: Spend my weekends writing fiction
 }```
