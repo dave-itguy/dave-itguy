@@ -3,29 +3,31 @@ _Software and Systems Engineer At [Castle Technical Solutions Ltd](http://www.ca
 
 ```javascript
 const dave = {
-  pronouns: He | Him,
-  code: [Java, Kotlin, C#, .NET, Python, TypeScript, JavaScript],
-  askMeAbout: [Java, Kotlin, Spring Boot, Spring Cloud, App Dev, Networking],
-  learning: [TDD],
+  pronouns: 'He' | 'Him',
+  code: ['Java', 'Kotlin', 'C#', '.NET', 'Python', 'TypeScript', 'JavaScript'],
+  askMeAbout: ['Java', 'Kotlin', 'Spring Boot', 'Spring Cloud', 'App Dev', 'Multithreading', 'Networking'],
+  learning: ['TDD', 'Assembly', 'C'],
   technologies: {
-    mobileApp: {Kotlin Android},
+    mobileApp: {'Kotlin Android'},
     frontEnd: {
-      js: [React, AngularJS],
-      TS: [Angular],
-      CSS: [SCSS, Bootstrap]
+      js: ['React', 'AngularJS'],
+      TS: ['Angular'],
+      CSS: ['SCSS', 'Bootstrap']
     },
     backEnd: {
-      Kotlin: [Spring Boot, Spring Cloud],
-      C#: [.NET Core],
+      Kotlin: ['Spring Boot', 'Spring Cloud'],
+      C#: ['.NET Core'],
     },
-    devOps: [AWS, Docker],
-    databases: [MySql, T-SQL, sqlite, mongo],
+    software: {
+      C#: ['WPF MVVM']
+    },
+    devOps: ['AWS', 'Docker'],
+    databases: ['MySql', 'T-SQL', 'sqlite', 'mongo'],
   },
-  archetecture: [Microservices, SPA],
+  archetecture: ['Microservices', 'SPA'],
   currentProjects: {
-    private: Developing Android and Server apps for Property Inventory,
-    private: Developing Server apps for Stock Management,
-    public: AWS Cloud Infrastructure
+    private: ['Developing Android and Server apps for Property Inventory', 'Developing Server apps for Stock Management'],
+    public: 'AWS Cloud Infrastructure'
   },
-  funFact: Spend my weekends writing fiction
-}```
+  funFact: 'Spend my weekends writing fiction'
+};```
