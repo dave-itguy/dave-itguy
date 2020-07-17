@@ -21,7 +21,7 @@ const dave = {
     software: {
       C#: ['WPF MVVM']
     },
-    devOps: ['AWS', 'Docker'],
+    devOps: ['AWS', 'Docker', 'Azure'],
     databases: ['MySql', 'T-SQL', 'sqlite', 'mongo'],
   },
   archetecture: ['Microservices', 'SPA'],
