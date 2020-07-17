@@ -28,6 +28,5 @@ const dave = {
   currentProjects: {
     private: ['Developing Android and Server apps for Property Inventory', 'Developing Server apps for Stock Management'],
     public: 'AWS Cloud Infrastructure'
-  },
-  funFact: 'Spend my weekends writing fiction'
+  }
 };
