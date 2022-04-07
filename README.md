@@ -8,19 +8,19 @@ const dave = {
   'askMeAbout': ['Java', 'Kotlin', 'Spring Boot', 'Spring Cloud', 'App Dev', 'Multithreading', 'Networking'],
   'learning': ['TDD', 'Assembly', 'C', 'Arduino'],
   'technologies': [
-    'mobileApp': ['Kotlin', 'Android'],
-    'frontEnd': [
+    'mobile': ['Kotlin', 'Android'],
+    'frontend': [
       'js': ['React', 'AngularJS'],
       'TS': ['Angular', 'React'],
       'CSS': ['SCSS', 'Bootstrap']
     ],
-    'back-end': [
+    'backend': [
       'Kotlin': ['Spring Boot', 'Spring Cloud'],
       'C#': ['.NET Core'],
       'Golang': ['v1.18+']
     ],
     'software': [
-      C#: ['WPF MVVM']
+      'C#': ['WPF MVVM']
     [,
     'devOps': ['AWS', 'Docker', 'Azure', 'Kubernetes'],
     'databases': ['MySql', 'T-SQL', 'sqlite', 'mongo'],
