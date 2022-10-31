@@ -1,5 +1,5 @@
 ## Hi! I'm Dave Roberts  👋
-_Software and Systems Engineer At [Castle Technical Solutions Ltd](http://www.castletechnicalsolutions.co.uk)_
+_Software and Systems Engineer_
 
 ```javascript
 const dave = {
