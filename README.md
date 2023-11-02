@@ -17,7 +17,8 @@ const dave = {
     'backend': [
       'Kotlin': ['Spring Boot', 'Spring Cloud'],
       'C#': ['.NET Core'],
-      'Golang': ['v1.18+']
+      'Golang': ['v1.18+'],
+      'Perl': ['v5', 'Dancer2']
     ],
     'software': [
       'C#': ['WPF MVVM']
